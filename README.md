@@ -254,10 +254,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
+**Piyush Nirmal**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@piyush-nirmal](https://github.com/piyush-nirmal)
+- LinkedIn: [Piyush Nirmal](https://linkedin.com/in/piyush-nirmal)
 
 ---
 
